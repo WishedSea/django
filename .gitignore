@@ -1,0 +1,12 @@
+# Default Folder
+lib/
+bin/
+include/
+__pycache__/
+migrations/
+bootstrap-5.0.2-dist/
+
+# Default File
+pyvenv.cfg
+manage.py
+db.sqlite3
